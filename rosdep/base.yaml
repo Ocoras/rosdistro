@@ -1776,8 +1776,7 @@ libcereal-dev:
   gentoo: [dev-libs/cereal]
   ubuntu: [libcereal-dev]
 libceres-dev:
-  arch:
-    aur: [ceres-solver]
+  arch: [ceres-solver]
   debian:
     buster: [libceres-dev]
     stretch: [libceres-dev]
